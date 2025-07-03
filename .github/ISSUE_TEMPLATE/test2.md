@@ -1,5 +1,5 @@
 ---
-name: new retargeting ad
+name: new retargeting ad 2
 about: 追蹤新 retargeting ad 的進度
 title: "[new retargeting ad]: <placement_name>"
 ---
